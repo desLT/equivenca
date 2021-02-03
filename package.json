@@ -4,11 +4,11 @@
   "description": "Equivenca CA",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deslt/equivenca.git"
+    "url": "git+https://github.com/desLT/equivenca.git"
   },
   "author": {
     "name": "Luis Tena",
-    "email": "luistena.developer@gmail.com"
+    "email": "luistena.developer@hotmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -44,5 +44,5 @@
     "static site"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/deslt/equivenca#readme"
+  "homepage": "https://github.com/desLT/equivenca"
 }

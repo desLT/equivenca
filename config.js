@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#16A2EF',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/equivenca/`, // This path is subpath of your hosting https://domain/portfolio
   firstName: 'Equivenca C.A.',
   // social
   socialLinks: [
