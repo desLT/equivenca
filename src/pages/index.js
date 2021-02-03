@@ -515,7 +515,7 @@ const IndexPage = () => (
 			<hr className="m-0" />
 
 			<div className="w-100 text-center my-3">
-				&copy; Equivenca 2015-{currentYear} · RIF J-40084286-7
+				&copy; Equivenca 2012-{currentYear} · RIF J-40084286-7
 			</div>
 		</div>
 	</Layout>
