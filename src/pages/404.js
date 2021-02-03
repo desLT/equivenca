@@ -11,10 +11,11 @@ const IndexPage = () => (
       >
         <header className="major">
           <h2>
-            Page not found
+            Error 404 - Página no encontrada
             <br />
-            Not a valid URL
+            La URL ingresada no es valida
           </h2>
+          <a href="/">Haz clic para volver</a>
         </header>
       </section>
     </div>

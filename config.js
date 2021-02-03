@@ -1,15 +1,14 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Resume', // <title>
-  manifestName: 'Resume',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'Equivenca C.A.', // <title>
+  manifestName: 'equivenca',
+  manifestShortName: 'equivenca', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#16A2EF',
+  manifestThemeColor: '#16A2EF',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
-  firstName: 'Anubhav',
-  lastName: 'Srivastava',
+  firstName: 'Equivenca C.A.',
   // social
   socialLinks: [
     {
@@ -33,7 +32,7 @@ module.exports = {
       url: 'https://facebook.com/theanubhav',
     },
   ],
-  email: 'anubhav.srivastava00@gmail.com',
-  phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+  email: 'gerencia@equivenca.com',
+  phone: '(+58) 0241-8389595 / (+58) 0241-8320756 / (+58) 0424-4909199',
+  address: 'Zona Industrial, 8va. Transversal, Centro Industrial Mauni, Galpón #34. Valencia - Edo. Carabobo, Venezuela',
 };

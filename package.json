@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-resume",
-  "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
+  "name": "gatsby-equivenca",
+  "version": "2.0.0",
+  "description": "Equivenca CA",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/deslt/equivenca.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Luis Tena",
+    "email": "luistena.developer@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -40,12 +40,9 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-resume"
+    "equivenca",
+    "static site"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-resume/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-resume#readme"
+  "homepage": "https://github.com/deslt/equivenca#readme"
 }

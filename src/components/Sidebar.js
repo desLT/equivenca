@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Scrollspy from 'react-scrollspy';
 import Scroll from './Scroll';
 
-import avatar from '../assets/images/avatar.png';
+import avatar from '../assets/images/logo.png';
 import config from '../../config';
 
 export class Sidebar extends Component {
@@ -10,12 +10,10 @@ export class Sidebar extends Component {
     super(props);
     this.state = {
       tabs: [
-        { content: 'About', href: 'about' },
-        { content: 'Experience', href: 'experience' },
-        { content: 'Education', href: 'education' },
-        { content: 'Skills', href: 'skills' },
-        { content: 'Interests', href: 'interests' },
-        { content: 'Awards', href: 'awards' },
+        { content: 'Inicio', href: 'inicio' },
+        { content: 'Nosotros', href: 'nosotros' },
+        { content: 'Taller', href: 'taller' },
+        { content: 'Catálogo', href: 'productos' }
       ],
       isCollapsed: true,
     };
@@ -35,13 +33,13 @@ export class Sidebar extends Component {
         className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
         id="sideNav"
       >
-        <a className="navbar-brand" href="#page-top">
+        <a className="navbar-brand" href="#inicio">
           <span className="d-block d-lg-none">
             {config.firstName} {config.lastName}
           </span>
           <span className="d-none d-lg-block">
             <img
-              className="img-fluid img-profile rounded-circle mx-auto mb-2"
+              className="img-fluid mx-auto mb-2 margin-img"
               src={avatar}
               alt=""
             />

@@ -24,8 +24,8 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Resume' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'Equivenca CA Empresa de metalmecánica en Valencia, Carabobo, Venezuela' },
+                { name: 'keywords', content: 'venezuela, carabobo, valencia, fabricación, diseño, procura, suministro, construcción, instalación, montaje, inspección, ensayos, servicio, mantenimiento, mecánica, obra civil, eléctrica, petrolera, petroquímica, alimentos, química' },
               ]}
             >
               <html lang="en" />

@@ -9,3 +9,40 @@
 @import './fontawesome/css/all.min.css';
 @import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700');
 @import url('https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i');
+
+.dark-text {
+    color: $dark;
+}
+
+.proceso {
+    background-color: $light;
+    width: 100%;
+}
+
+.table-title {
+    background-color: $dark_blue;
+    color: white;
+    font-weight: bolder;
+    padding: 5px;
+    text-align: center;
+}
+
+thead tr {
+    background-color: $light_blue;
+}
+
+table.proceso tr th,
+table.proceso tr td {
+    padding: 5px;
+}
+
+.resaltado {
+    background-color: $warning_yellow;
+    padding: 5px;
+    color: black;
+    border: 1px solid black;
+}
+
+.margin-img {
+    margin-right: -10px !important;
+}
